@@ -1,5 +1,8 @@
 ## Author: Karolina Spiel
 
+E-Mail: karolina.spiel@web.de
+Mobile: 0178 799 72 92
+
 ## Usage / Starting the program
 
 To run the program, use the command ```python3 7446_kspiel.py source-file output-file```
