@@ -1,10 +1,8 @@
-# Author: Karolina Spiel
+## Author: Karolina Spiel
 
-# Usage
+## Usage / Starting the program
 
-## Starting the Program
 To run the program, use the command ```python3 7446_kspiel.py source-file] [-s SORTED_WORDLIST_FILE]```
-
 
 The program works for both, CSV files (*.csv) and Excel files (*.xls, *.xlsx).
 source-file has to be either .xls, .xlsx, or .csv
