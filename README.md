@@ -1,9 +1,11 @@
-# FTL-TopicModeling
+# Author: Karolina Spiel
 
-collect_tweets.py: Collects tweets  
-topic_modeling.py: Models topics given corona.csv  
-corona.csv: Set example (used in topic_modeling.py, created by collect_tweets.py)  
-corona_*.csv: Some other sets we have collected (different time periods)  
-EXAMPLE(2)_LDA_Visualization.html: Visualization examples  
-wordcloud_example.py: Wordcloud visualization example  
-EXAMPLE_wordcloud.png: Wordcloud visualization example (still containing stopwords, only shows most frequent words, not the topics)
+# Usage
+
+## Starting the Program
+To run the program, use the command ```python3 7446_kspiel.py source-file] [-s SORTED_WORDLIST_FILE]```
+
+
+The program works for both, CSV files (*.csv) and Excel files (*.xls, *.xlsx).
+source-file has to be either .xls, .xlsx, or .csv
+output-file type has to match source file type
